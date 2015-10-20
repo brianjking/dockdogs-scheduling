@@ -1,0 +1,109 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/Home/", 
+            "text": "DockDogs\u00ae Scheduling\n\n\nGetting Started\n\n\n\n\nBasics/Introduction\n\n\nStatus Icon Legend\n \n\n\n\n\nReporting Functionality\n\n\n\n\nReporting Basics\n\n\nPre-Built Sponsors Reports\n\n\nCreating A New Report\n\n\n\n\nNotifications Functionality\n\n\n\n\nNotifications Basics\n\n\nPre-Built Notifications\n\n\n\n\nFrequently Asked Questions\n\n\n\n\nFAQS\n\n\n\n\nDevelopment\n\n\n\n\nProject Issue Tracking \n Reporting\n\n\n\n\nTHINGS\n\n\n#!code\n\n$ git clone https://dockdogs@bitbucket.org/dockdogs/dockdogs-scheduling.git/wiki", 
+            "title": "Home2"
+        }, 
+        {
+            "location": "/Home/#dockdogs-scheduling", 
+            "text": "", 
+            "title": "DockDogs\u00ae Scheduling"
+        }, 
+        {
+            "location": "/Home/#getting-started", 
+            "text": "Basics/Introduction  Status Icon Legend", 
+            "title": "Getting Started"
+        }, 
+        {
+            "location": "/Home/#reporting-functionality", 
+            "text": "Reporting Basics  Pre-Built Sponsors Reports  Creating A New Report", 
+            "title": "Reporting Functionality"
+        }, 
+        {
+            "location": "/Home/#notifications-functionality", 
+            "text": "Notifications Basics  Pre-Built Notifications", 
+            "title": "Notifications Functionality"
+        }, 
+        {
+            "location": "/Home/#frequently-asked-questions", 
+            "text": "FAQS", 
+            "title": "Frequently Asked Questions"
+        }, 
+        {
+            "location": "/Home/#development", 
+            "text": "Project Issue Tracking   Reporting   THINGS  #!code\n\n$ git clone https://dockdogs@bitbucket.org/dockdogs/dockdogs-scheduling.git/wiki", 
+            "title": "Development"
+        }, 
+        {
+            "location": "/Basics and Introduction/", 
+            "text": "Basics \n Introduction", 
+            "title": "Basics & Introduction"
+        }, 
+        {
+            "location": "/Basics and Introduction/#basics-introduction", 
+            "text": "", 
+            "title": "Basics &amp; Introduction"
+        }, 
+        {
+            "location": "/FAQs/", 
+            "text": "Things", 
+            "title": "FAQS"
+        }, 
+        {
+            "location": "/Creating A New Report/", 
+            "text": "Things", 
+            "title": "Creating A New Report"
+        }, 
+        {
+            "location": "/Notifications Basics/", 
+            "text": "Things", 
+            "title": "Notification Basics"
+        }, 
+        {
+            "location": "/Pre-Built Notifications/", 
+            "text": "Things", 
+            "title": "Pre-Built Notifications"
+        }, 
+        {
+            "location": "/Pre-Built Sponsors Report/", 
+            "text": "Pre-Built Sponsors Report", 
+            "title": "Pre-Built Sponsors Report"
+        }, 
+        {
+            "location": "/Pre-Built Sponsors Report/#pre-built-sponsors-report", 
+            "text": "", 
+            "title": "Pre-Built Sponsors Report"
+        }, 
+        {
+            "location": "/Reporting Basics/", 
+            "text": "Basics", 
+            "title": "Reporting Basics"
+        }, 
+        {
+            "location": "/Status Icon Legend/", 
+            "text": "Red\n\n\nYellow\n\n\nGreen\n\n\nBlue", 
+            "title": "Status Icon Legend"
+        }
+    ]
+}
