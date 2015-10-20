@@ -1,14 +1,20 @@
 site_name: DockDogs Scheduling
 pages:
 - Home: index.md
-- Home2: Home.md
-- Basics & Introduction: Basics and Introduction.md
-- FAQS: FAQs.md
-- Creating A New Report: Creating A New Report.md
-- Notification Basics: Notifications Basics.md
-- Pre-Built Notifications: Pre-Built Notifications.md
-- Pre-Built Sponsors Report: Pre-Built Sponsors Report.md
-- Reporting Basics: Reporting Basics.md
-- Status Icon Legend: Status Icon Legend.md
+- Getting Started
+	- Basics and Introduction: getting-started/Basics and Introduction.md
+	- Status Icon Legend: Status Icon Legend.md
+	- FAQS: getting-started/FAQs.md
+- Reporting
+	- Reporting Basics: Reporting Basics.md
+	- Creating A New Report: reporting/Creating A New Report.md
+	- Pre-Built Sponsors Report: Pre-Built Sponsors Report.md
+- Notifications
+	- Pre-Built Notifications: notifications/Pre-Built Notifications.md
+	- Notification Basics: notifications/Notifications Basics.md
+
+
 theme: readthedocs
+
+copyright: Copyright &copy; 2015 <a href="https://twitter.com/brianjking">Brian J King</a>
 

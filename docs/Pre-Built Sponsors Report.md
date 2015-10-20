@@ -1,1 +1,0 @@
-# Pre-Built Sponsors Report #
