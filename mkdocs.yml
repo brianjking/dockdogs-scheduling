@@ -1,0 +1,14 @@
+site_name: DockDogs Scheduling
+pages:
+- Home: index.md
+- Home2: Home.md
+- Basics & Introduction: Basics and Introduction.md
+- FAQS: FAQs.md
+- Creating A New Report: Creating A New Report.md
+- Notification Basics: Notifications Basics.md
+- Pre-Built Notifications: Pre-Built Notifications.md
+- Pre-Built Sponsors Report: Pre-Built Sponsors Report.md
+- Reporting Basics: Reporting Basics.md
+- Status Icon Legend: Status Icon Legend.md
+theme: readthedocs
+
