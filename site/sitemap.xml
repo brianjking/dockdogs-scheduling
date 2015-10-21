@@ -10,75 +10,63 @@
     
 
     
+        
     <url>
-     <loc>None/Home/</loc>
+     <loc>None/getting-started/basics-and-introduction/</loc>
      <lastmod>2015-10-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>None/getting-started/status-icon-legend/</loc>
+     <lastmod>2015-10-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/getting-started/FAQs/</loc>
+     <lastmod>2015-10-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
+        
     <url>
-     <loc>None/Basics and Introduction/</loc>
+     <loc>None/reporting/reporting-basics/</loc>
      <lastmod>2015-10-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>None/reporting/creating-a-new-report/</loc>
+     <lastmod>2015-10-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/reporting/pre-built-sponsors-report/</loc>
+     <lastmod>2015-10-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
+        
     <url>
-     <loc>None/FAQs/</loc>
+     <loc>None/notifications/pre-build-notifications/</loc>
      <lastmod>2015-10-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
+        
     <url>
-     <loc>None/Creating A New Report/</loc>
+     <loc>None/notifications/notifications-basics/</loc>
      <lastmod>2015-10-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-    <url>
-     <loc>None/Notifications Basics/</loc>
-     <lastmod>2015-10-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/Pre-Built Notifications/</loc>
-     <lastmod>2015-10-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/Pre-Built Sponsors Report/</loc>
-     <lastmod>2015-10-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/Reporting Basics/</loc>
-     <lastmod>2015-10-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/Status Icon Legend/</loc>
-     <lastmod>2015-10-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
+        
     
 
 </urlset>
